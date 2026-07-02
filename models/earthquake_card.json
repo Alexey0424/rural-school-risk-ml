@@ -1,0 +1,103 @@
+{
+  "hazard": "earthquake",
+  "display": "Earthquake",
+  "model_key": "lgbm",
+  "model": "LightGBM",
+  "cv_f1_macro": 0.9664743589743591,
+  "best_params": {
+    "class_weight": "balanced",
+    "colsample_bytree": 0.9698774473114251,
+    "learning_rate": 0.1976681084946931,
+    "max_depth": 5,
+    "min_child_samples": 8,
+    "n_estimators": 243,
+    "num_leaves": 32,
+    "reg_alpha": 0.7200236252492128,
+    "reg_lambda": 0.00013585859850527544,
+    "subsample": 0.7043316699321636
+  },
+  "holdout_metrics": {
+    "accuracy": 0.9629629629629629,
+    "balanced_accuracy": 0.9649122807017544,
+    "f1_macro": 0.9618736383442266,
+    "f1_weighted": 0.9630234809973373,
+    "mcc": 0.9463922554960713,
+    "kappa": 0.9444444444444444,
+    "roc_auc": 0.9989035087719298
+  },
+  "classes": [
+    "Low",
+    "Medium",
+    "High"
+  ],
+  "features": {
+    "structural_system": [
+      "Timber",
+      "Reinforced concrete frame",
+      "Confined brick masonry",
+      "Concrete block masonry",
+      "Partially confined brick masonry",
+      "Unreinforced brick masonry",
+      "Earthen construction",
+      "Mixed or informal system"
+    ],
+    "construction_period": [
+      "After 2010",
+      "2001 to 2010",
+      "1980 to 2000",
+      "Before 1980"
+    ],
+    "stories": [
+      "1",
+      "2",
+      "3 or more"
+    ],
+    "facade_openings": [
+      "0 to 2",
+      "3 to 5",
+      "More than 5"
+    ],
+    "construction_quality": [
+      "Good",
+      "Moderate",
+      "Poor"
+    ],
+    "structural_damage": [
+      "No",
+      "Yes"
+    ],
+    "ring_beam": [
+      "Yes",
+      "No"
+    ],
+    "wall_connections": [
+      "Yes",
+      "No"
+    ],
+    "plan_shape": [
+      "Regular",
+      "Irregular"
+    ],
+    "roof_covering": [
+      "Clay tiles",
+      "Fiber cement sheets",
+      "Metal sheets"
+    ],
+    "roof_anchorage": [
+      "Good",
+      "Moderate",
+      "Poor"
+    ],
+    "roof_condition": [
+      "Good",
+      "Moderate",
+      "Poor"
+    ]
+  },
+  "n_train": 212,
+  "n_test": 54,
+  "random_seed": 42,
+  "trained_at": "2026-07-02T22:24:09+00:00",
+  "python": "3.10.10",
+  "sklearn": "1.7.2"
+}

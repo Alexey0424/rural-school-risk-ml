@@ -1,0 +1,70 @@
+{
+  "earthquake": {
+    "model": "LightGBM",
+    "cv_f1_macro": 0.9665,
+    "accuracy": 0.963,
+    "balanced_accuracy": 0.9649,
+    "f1_macro": 0.9619,
+    "f1_weighted": 0.963,
+    "mcc": 0.9464,
+    "kappa": 0.9444,
+    "roc_auc": 0.9989,
+    "n_records": 266,
+    "class_counts": {
+      "Low": 92,
+      "High": 92,
+      "Medium": 82
+    }
+  },
+  "landslide": {
+    "model": "LightGBM",
+    "cv_f1_macro": 0.9381,
+    "accuracy": 0.8333,
+    "balanced_accuracy": 0.8333,
+    "f1_macro": 0.8329,
+    "f1_weighted": 0.8329,
+    "mcc": 0.7513,
+    "kappa": 0.75,
+    "roc_auc": 0.9533,
+    "n_records": 150,
+    "class_counts": {
+      "Low": 52,
+      "Medium": 49,
+      "High": 49
+    }
+  },
+  "flood": {
+    "model": "LightGBM",
+    "cv_f1_macro": 0.9626,
+    "accuracy": 0.9773,
+    "balanced_accuracy": 0.9804,
+    "f1_macro": 0.9804,
+    "f1_weighted": 0.9773,
+    "mcc": 0.9658,
+    "kappa": 0.965,
+    "roc_auc": 1.0,
+    "n_records": 216,
+    "class_counts": {
+      "Low": 85,
+      "Medium": 83,
+      "High": 48
+    }
+  },
+  "windstorm": {
+    "model": "Extra trees",
+    "cv_f1_macro": 0.9157,
+    "accuracy": 0.8929,
+    "balanced_accuracy": 0.9154,
+    "f1_macro": 0.9124,
+    "f1_weighted": 0.8933,
+    "mcc": 0.8313,
+    "kappa": 0.8296,
+    "roc_auc": 0.9893,
+    "n_records": 137,
+    "class_counts": {
+      "Medium": 63,
+      "High": 51,
+      "Low": 23
+    }
+  }
+}

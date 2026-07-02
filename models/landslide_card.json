@@ -1,0 +1,104 @@
+{
+  "hazard": "landslide",
+  "display": "Landslide",
+  "model_key": "lgbm",
+  "model": "LightGBM",
+  "cv_f1_macro": 0.9381216931216929,
+  "best_params": {
+    "class_weight": null,
+    "colsample_bytree": 0.9637281608315128,
+    "learning_rate": 0.024112898115291985,
+    "max_depth": 8,
+    "min_child_samples": 3,
+    "n_estimators": 489,
+    "num_leaves": 60,
+    "reg_alpha": 0.00023641892308789696,
+    "reg_lambda": 3.0118659882617117e-07,
+    "subsample": 0.9878338511058234
+  },
+  "holdout_metrics": {
+    "accuracy": 0.8333333333333334,
+    "balanced_accuracy": 0.8333333333333334,
+    "f1_macro": 0.8329156223893066,
+    "f1_weighted": 0.8329156223893066,
+    "mcc": 0.75125313370595,
+    "kappa": 0.75,
+    "roc_auc": 0.9533333333333335
+  },
+  "classes": [
+    "Low",
+    "Medium",
+    "High"
+  ],
+  "features": {
+    "structural_system": [
+      "Reinforced concrete frame",
+      "Confined brick masonry",
+      "Concrete block masonry",
+      "Partially confined brick masonry",
+      "Earthen construction",
+      "Unreinforced brick masonry",
+      "Mixed or informal system",
+      "Timber"
+    ],
+    "construction_period": [
+      "After 2010",
+      "2001 to 2010",
+      "1980 to 2000",
+      "Before 1980"
+    ],
+    "stories": [
+      "3 or more",
+      "2",
+      "1"
+    ],
+    "facade_openings": [
+      "0 to 2",
+      "3 to 5",
+      "More than 5"
+    ],
+    "construction_quality": [
+      "Good",
+      "Moderate",
+      "Poor"
+    ],
+    "structural_damage": [
+      "No",
+      "Yes"
+    ],
+    "ring_beam": [
+      "Yes",
+      "No"
+    ],
+    "wall_connections": [
+      "Yes",
+      "No"
+    ],
+    "roof_covering": [
+      "Clay tiles",
+      "Fiber cement sheets",
+      "Metal sheets"
+    ],
+    "roof_anchorage": [
+      "Good",
+      "Moderate",
+      "Poor"
+    ],
+    "slope_retention": [
+      "Effective",
+      "Present but ineffective",
+      "Absent"
+    ],
+    "retention_maintenance": [
+      "Good",
+      "Moderate",
+      "Poor"
+    ]
+  },
+  "n_train": 120,
+  "n_test": 30,
+  "random_seed": 42,
+  "trained_at": "2026-07-02T22:24:09+00:00",
+  "python": "3.10.10",
+  "sklearn": "1.7.2"
+}

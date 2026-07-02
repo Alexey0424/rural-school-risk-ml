@@ -1,0 +1,92 @@
+{
+  "hazard": "windstorm",
+  "display": "Windstorm",
+  "model_key": "et",
+  "model": "Extra trees",
+  "cv_f1_macro": 0.9157263107263107,
+  "best_params": {
+    "class_weight": "balanced",
+    "max_depth": 8,
+    "max_features": "sqrt",
+    "min_samples_leaf": 1,
+    "min_samples_split": 2,
+    "n_estimators": 620
+  },
+  "holdout_metrics": {
+    "accuracy": 0.8928571428571429,
+    "balanced_accuracy": 0.9153846153846154,
+    "f1_macro": 0.9123809523809524,
+    "f1_weighted": 0.8932653061224489,
+    "mcc": 0.8313076815314612,
+    "kappa": 0.8296146044624746,
+    "roc_auc": 0.9893162393162394
+  },
+  "classes": [
+    "Low",
+    "Medium",
+    "High"
+  ],
+  "features": {
+    "structural_system": [
+      "Reinforced concrete frame",
+      "Confined brick masonry",
+      "Concrete block masonry",
+      "Partially confined brick masonry",
+      "Earthen construction",
+      "Unreinforced brick masonry",
+      "Mixed or informal system",
+      "Timber"
+    ],
+    "construction_period": [
+      "After 2010",
+      "2001 to 2010",
+      "1980 to 2000",
+      "Before 1980"
+    ],
+    "stories": [
+      "3 or more",
+      "2",
+      "1"
+    ],
+    "facade_openings": [
+      "0 to 2",
+      "3 to 5",
+      "More than 5"
+    ],
+    "construction_quality": [
+      "Good",
+      "Moderate",
+      "Poor"
+    ],
+    "structural_damage": [
+      "No",
+      "Yes"
+    ],
+    "roof_covering": [
+      "Clay tiles",
+      "Fiber cement sheets",
+      "Metal sheets"
+    ],
+    "roof_anchorage": [
+      "Good",
+      "Moderate",
+      "Poor"
+    ],
+    "roof_condition": [
+      "Good",
+      "Moderate",
+      "Poor"
+    ],
+    "roof_geometry": [
+      "Flat",
+      "Hipped",
+      "Gabled"
+    ]
+  },
+  "n_train": 109,
+  "n_test": 28,
+  "random_seed": 42,
+  "trained_at": "2026-07-02T22:24:09+00:00",
+  "python": "3.10.10",
+  "sklearn": "1.7.2"
+}

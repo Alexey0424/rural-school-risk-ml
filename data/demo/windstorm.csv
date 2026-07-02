@@ -1,0 +1,156 @@
+structural_system,construction_period,stories,facade_openings,construction_quality,structural_damage,roof_covering,roof_anchorage,roof_condition,roof_geometry,risk_level
+Partially confined brick masonry,Before 1980,1,More than 5,Moderate,Yes,Fiber cement sheets,Poor,Poor,Flat,Medium
+Unreinforced brick masonry,After 2010,2,More than 5,Moderate,No,Metal sheets,Good,Poor,Gabled,High
+Confined brick masonry,Before 1980,2,0 to 2,Poor,Yes,Fiber cement sheets,Poor,Poor,Hipped,Medium
+Timber,After 2010,2,More than 5,Good,Yes,Clay tiles,Moderate,Moderate,Gabled,High
+Reinforced concrete frame,Before 1980,2,3 to 5,Good,No,Metal sheets,Good,Moderate,Flat,Medium
+Confined brick masonry,After 2010,3 or more,0 to 2,Moderate,No,Clay tiles,Good,Poor,Flat,Low
+Confined brick masonry,2001 to 2010,3 or more,More than 5,Good,No,Metal sheets,Moderate,Poor,Hipped,High
+Earthen construction,2001 to 2010,1,3 to 5,Poor,No,Fiber cement sheets,Good,Poor,Hipped,Medium
+Partially confined brick masonry,After 2010,1,More than 5,Poor,No,Fiber cement sheets,Good,Good,Gabled,Medium
+Confined brick masonry,After 2010,1,0 to 2,Poor,No,Fiber cement sheets,Moderate,Poor,Flat,Medium
+Confined brick masonry,2001 to 2010,3 or more,3 to 5,Poor,No,Fiber cement sheets,Moderate,Poor,Gabled,High
+Confined brick masonry,1980 to 2000,2,0 to 2,Good,No,Metal sheets,Good,Poor,Flat,Medium
+Concrete block masonry,After 2010,1,3 to 5,Moderate,Yes,Clay tiles,Good,Good,Hipped,Medium
+Earthen construction,2001 to 2010,1,3 to 5,Moderate,Yes,Fiber cement sheets,Poor,Moderate,Gabled,High
+Earthen construction,2001 to 2010,1,3 to 5,Poor,No,Clay tiles,Good,Good,Hipped,Medium
+Timber,2001 to 2010,2,0 to 2,Poor,Yes,Fiber cement sheets,Poor,Good,Hipped,Medium
+Timber,1980 to 2000,2,More than 5,Good,No,Fiber cement sheets,Poor,Moderate,Hipped,High
+Confined brick masonry,Before 1980,1,0 to 2,Good,No,Metal sheets,Good,Good,Flat,Low
+Reinforced concrete frame,1980 to 2000,1,More than 5,Moderate,No,Clay tiles,Moderate,Good,Flat,Medium
+Reinforced concrete frame,Before 1980,1,More than 5,Poor,No,Metal sheets,Moderate,Poor,Gabled,High
+Concrete block masonry,2001 to 2010,1,3 to 5,Good,No,Fiber cement sheets,Good,Moderate,Hipped,Medium
+Unreinforced brick masonry,2001 to 2010,1,More than 5,Poor,No,Fiber cement sheets,Poor,Good,Hipped,Medium
+Confined brick masonry,Before 1980,3 or more,More than 5,Moderate,No,Metal sheets,Good,Good,Hipped,Medium
+Unreinforced brick masonry,After 2010,1,0 to 2,Moderate,No,Metal sheets,Good,Poor,Gabled,High
+Timber,After 2010,1,More than 5,Moderate,No,Fiber cement sheets,Moderate,Poor,Hipped,High
+Unreinforced brick masonry,After 2010,1,0 to 2,Good,Yes,Metal sheets,Good,Poor,Gabled,High
+Timber,After 2010,2,0 to 2,Poor,No,Metal sheets,Moderate,Moderate,Flat,Medium
+Confined brick masonry,Before 1980,3 or more,3 to 5,Moderate,Yes,Metal sheets,Poor,Good,Hipped,Medium
+Timber,Before 1980,2,More than 5,Moderate,Yes,Metal sheets,Good,Poor,Gabled,High
+Partially confined brick masonry,Before 1980,1,More than 5,Good,No,Metal sheets,Good,Poor,Gabled,High
+Confined brick masonry,Before 1980,2,0 to 2,Moderate,Yes,Metal sheets,Good,Good,Flat,Medium
+Confined brick masonry,2001 to 2010,1,More than 5,Good,No,Metal sheets,Good,Moderate,Hipped,High
+Concrete block masonry,1980 to 2000,2,0 to 2,Good,Yes,Fiber cement sheets,Good,Moderate,Gabled,Medium
+Unreinforced brick masonry,2001 to 2010,2,More than 5,Good,Yes,Metal sheets,Poor,Poor,Hipped,High
+Reinforced concrete frame,Before 1980,1,3 to 5,Moderate,No,Metal sheets,Moderate,Good,Gabled,High
+Confined brick masonry,1980 to 2000,1,0 to 2,Poor,Yes,Clay tiles,Good,Moderate,Hipped,Medium
+Reinforced concrete frame,2001 to 2010,2,3 to 5,Poor,No,Metal sheets,Poor,Good,Hipped,Medium
+Timber,2001 to 2010,1,3 to 5,Moderate,No,Metal sheets,Good,Moderate,Gabled,High
+Reinforced concrete frame,After 2010,2,3 to 5,Good,No,Fiber cement sheets,Good,Good,Flat,Low
+Unreinforced brick masonry,Before 1980,2,More than 5,Good,No,Metal sheets,Good,Moderate,Gabled,High
+Reinforced concrete frame,1980 to 2000,1,More than 5,Good,No,Metal sheets,Good,Moderate,Hipped,High
+Timber,1980 to 2000,1,More than 5,Good,Yes,Clay tiles,Good,Moderate,Hipped,Medium
+Partially confined brick masonry,2001 to 2010,2,More than 5,Good,No,Fiber cement sheets,Moderate,Good,Gabled,Medium
+Mixed or informal system,2001 to 2010,1,0 to 2,Moderate,No,Metal sheets,Poor,Moderate,Hipped,High
+Mixed or informal system,Before 1980,2,3 to 5,Moderate,No,Fiber cement sheets,Poor,Good,Flat,Medium
+Mixed or informal system,After 2010,1,0 to 2,Moderate,Yes,Metal sheets,Poor,Moderate,Gabled,High
+Concrete block masonry,Before 1980,2,More than 5,Good,No,Fiber cement sheets,Good,Moderate,Hipped,Medium
+Partially confined brick masonry,Before 1980,2,0 to 2,Moderate,Yes,Metal sheets,Moderate,Moderate,Flat,Medium
+Reinforced concrete frame,1980 to 2000,3 or more,3 to 5,Moderate,Yes,Fiber cement sheets,Poor,Moderate,Gabled,High
+Partially confined brick masonry,1980 to 2000,2,More than 5,Good,Yes,Clay tiles,Good,Moderate,Hipped,Medium
+Unreinforced brick masonry,After 2010,1,3 to 5,Moderate,No,Fiber cement sheets,Good,Poor,Flat,Medium
+Reinforced concrete frame,1980 to 2000,3 or more,3 to 5,Moderate,No,Clay tiles,Good,Good,Flat,Low
+Reinforced concrete frame,1980 to 2000,2,0 to 2,Poor,No,Clay tiles,Good,Good,Flat,Low
+Unreinforced brick masonry,After 2010,1,0 to 2,Poor,Yes,Metal sheets,Moderate,Poor,Gabled,High
+Partially confined brick masonry,1980 to 2000,2,More than 5,Moderate,Yes,Fiber cement sheets,Moderate,Moderate,Gabled,High
+Reinforced concrete frame,Before 1980,1,3 to 5,Moderate,Yes,Fiber cement sheets,Poor,Moderate,Gabled,High
+Concrete block masonry,2001 to 2010,1,0 to 2,Moderate,No,Metal sheets,Good,Moderate,Flat,Medium
+Timber,2001 to 2010,2,3 to 5,Good,No,Clay tiles,Moderate,Poor,Hipped,Medium
+Reinforced concrete frame,2001 to 2010,3 or more,3 to 5,Good,No,Metal sheets,Poor,Good,Flat,Medium
+Confined brick masonry,Before 1980,3 or more,3 to 5,Moderate,Yes,Clay tiles,Poor,Poor,Hipped,Medium
+Earthen construction,Before 1980,1,0 to 2,Good,No,Clay tiles,Poor,Good,Hipped,Medium
+Mixed or informal system,1980 to 2000,1,3 to 5,Poor,Yes,Fiber cement sheets,Poor,Poor,Gabled,High
+Partially confined brick masonry,2001 to 2010,1,0 to 2,Poor,No,Fiber cement sheets,Moderate,Good,Gabled,Medium
+Confined brick masonry,After 2010,1,3 to 5,Good,Yes,Fiber cement sheets,Good,Good,Flat,Medium
+Concrete block masonry,After 2010,2,3 to 5,Moderate,Yes,Metal sheets,Good,Moderate,Hipped,Medium
+Reinforced concrete frame,After 2010,3 or more,0 to 2,Moderate,No,Fiber cement sheets,Good,Good,Flat,Low
+Timber,2001 to 2010,2,More than 5,Poor,No,Fiber cement sheets,Moderate,Moderate,Hipped,High
+Reinforced concrete frame,1980 to 2000,3 or more,0 to 2,Poor,No,Clay tiles,Poor,Good,Gabled,Medium
+Confined brick masonry,1980 to 2000,1,3 to 5,Moderate,Yes,Clay tiles,Poor,Moderate,Flat,Medium
+Concrete block masonry,2001 to 2010,2,3 to 5,Moderate,Yes,Fiber cement sheets,Moderate,Poor,Gabled,High
+Reinforced concrete frame,2001 to 2010,1,3 to 5,Good,No,Clay tiles,Moderate,Good,Flat,Low
+Mixed or informal system,After 2010,1,0 to 2,Moderate,No,Metal sheets,Poor,Poor,Gabled,High
+Concrete block masonry,2001 to 2010,2,3 to 5,Moderate,Yes,Metal sheets,Poor,Good,Gabled,High
+Reinforced concrete frame,2001 to 2010,2,0 to 2,Good,No,Metal sheets,Good,Good,Flat,Low
+Mixed or informal system,Before 1980,2,More than 5,Poor,No,Metal sheets,Moderate,Good,Flat,Medium
+Reinforced concrete frame,After 2010,3 or more,0 to 2,Moderate,No,Clay tiles,Poor,Good,Flat,Low
+Mixed or informal system,After 2010,2,More than 5,Poor,Yes,Clay tiles,Moderate,Moderate,Gabled,High
+Confined brick masonry,After 2010,1,3 to 5,Good,No,Metal sheets,Moderate,Moderate,Gabled,High
+Partially confined brick masonry,2001 to 2010,2,More than 5,Poor,No,Clay tiles,Moderate,Moderate,Gabled,Medium
+Earthen construction,2001 to 2010,1,0 to 2,Good,Yes,Metal sheets,Poor,Poor,Gabled,High
+Confined brick masonry,After 2010,1,More than 5,Moderate,Yes,Metal sheets,Poor,Moderate,Gabled,High
+Confined brick masonry,After 2010,3 or more,0 to 2,Moderate,No,Fiber cement sheets,Good,Good,Flat,Low
+Reinforced concrete frame,After 2010,2,3 to 5,Moderate,No,Metal sheets,Poor,Good,Gabled,High
+Reinforced concrete frame,After 2010,2,More than 5,Good,No,Metal sheets,Good,Moderate,Gabled,High
+Reinforced concrete frame,After 2010,2,3 to 5,Good,No,Metal sheets,Poor,Moderate,Flat,Medium
+Unreinforced brick masonry,Before 1980,2,More than 5,Poor,No,Metal sheets,Moderate,Poor,Flat,Medium
+Confined brick masonry,1980 to 2000,1,More than 5,Poor,Yes,Fiber cement sheets,Poor,Moderate,Hipped,High
+Unreinforced brick masonry,2001 to 2010,2,0 to 2,Poor,No,Metal sheets,Good,Poor,Flat,Medium
+Reinforced concrete frame,1980 to 2000,2,3 to 5,Poor,Yes,Clay tiles,Good,Good,Flat,Medium
+Reinforced concrete frame,1980 to 2000,3 or more,3 to 5,Good,No,Metal sheets,Good,Moderate,Gabled,Medium
+Timber,After 2010,1,More than 5,Poor,Yes,Metal sheets,Moderate,Moderate,Hipped,High
+Confined brick masonry,1980 to 2000,1,More than 5,Moderate,No,Metal sheets,Poor,Moderate,Hipped,High
+Unreinforced brick masonry,Before 1980,1,More than 5,Moderate,Yes,Metal sheets,Poor,Poor,Gabled,High
+Reinforced concrete frame,Before 1980,2,0 to 2,Good,No,Clay tiles,Good,Moderate,Hipped,Medium
+Unreinforced brick masonry,After 2010,2,3 to 5,Moderate,Yes,Metal sheets,Good,Moderate,Gabled,High
+Concrete block masonry,Before 1980,1,More than 5,Poor,Yes,Fiber cement sheets,Poor,Poor,Gabled,High
+Partially confined brick masonry,1980 to 2000,1,0 to 2,Poor,Yes,Fiber cement sheets,Good,Poor,Gabled,High
+Partially confined brick masonry,1980 to 2000,2,3 to 5,Good,Yes,Clay tiles,Moderate,Good,Flat,Medium
+Confined brick masonry,2001 to 2010,2,0 to 2,Moderate,No,Fiber cement sheets,Good,Good,Flat,Low
+Concrete block masonry,Before 1980,2,More than 5,Good,Yes,Metal sheets,Moderate,Moderate,Gabled,High
+Earthen construction,After 2010,1,More than 5,Moderate,No,Metal sheets,Poor,Moderate,Gabled,High
+Partially confined brick masonry,2001 to 2010,2,3 to 5,Moderate,Yes,Metal sheets,Good,Poor,Gabled,High
+Timber,2001 to 2010,1,3 to 5,Moderate,No,Fiber cement sheets,Moderate,Good,Gabled,High
+Confined brick masonry,1980 to 2000,1,3 to 5,Good,No,Metal sheets,Good,Good,Gabled,High
+Earthen construction,After 2010,1,3 to 5,Moderate,No,Fiber cement sheets,Moderate,Poor,Gabled,High
+Reinforced concrete frame,Before 1980,3 or more,0 to 2,Good,No,Metal sheets,Poor,Good,Gabled,High
+Reinforced concrete frame,Before 1980,2,More than 5,Moderate,Yes,Fiber cement sheets,Moderate,Poor,Hipped,High
+Timber,1980 to 2000,1,3 to 5,Moderate,No,Metal sheets,Moderate,Moderate,Gabled,High
+Reinforced concrete frame,After 2010,2,3 to 5,Good,No,Clay tiles,Poor,Good,Flat,Low
+Reinforced concrete frame,2001 to 2010,2,More than 5,Moderate,Yes,Metal sheets,Good,Poor,Hipped,High
+Reinforced concrete frame,1980 to 2000,2,More than 5,Moderate,Yes,Fiber cement sheets,Moderate,Good,Gabled,Medium
+Reinforced concrete frame,After 2010,3 or more,0 to 2,Moderate,No,Fiber cement sheets,Moderate,Good,Flat,Medium
+Reinforced concrete frame,1980 to 2000,1,3 to 5,Good,No,Clay tiles,Good,Good,Hipped,Medium
+Timber,2001 to 2010,1,More than 5,Poor,No,Fiber cement sheets,Poor,Moderate,Gabled,High
+Earthen construction,1980 to 2000,1,0 to 2,Moderate,No,Clay tiles,Good,Poor,Gabled,Medium
+Reinforced concrete frame,After 2010,2,0 to 2,Good,No,Metal sheets,Moderate,Moderate,Hipped,Medium
+Unreinforced brick masonry,1980 to 2000,1,0 to 2,Good,No,Clay tiles,Poor,Moderate,Gabled,Medium
+Earthen construction,1980 to 2000,1,0 to 2,Moderate,Yes,Fiber cement sheets,Good,Good,Flat,Medium
+Concrete block masonry,After 2010,2,More than 5,Poor,Yes,Metal sheets,Moderate,Poor,Gabled,High
+Confined brick masonry,Before 1980,1,More than 5,Poor,Yes,Clay tiles,Good,Good,Gabled,Medium
+Partially confined brick masonry,2001 to 2010,2,0 to 2,Moderate,Yes,Metal sheets,Good,Poor,Gabled,High
+Timber,After 2010,2,0 to 2,Poor,No,Metal sheets,Good,Poor,Flat,Medium
+Reinforced concrete frame,Before 1980,2,More than 5,Good,Yes,Clay tiles,Moderate,Poor,Gabled,High
+Earthen construction,1980 to 2000,1,3 to 5,Moderate,Yes,Metal sheets,Moderate,Moderate,Hipped,Medium
+Mixed or informal system,2001 to 2010,1,3 to 5,Poor,Yes,Fiber cement sheets,Good,Poor,Hipped,Medium
+Reinforced concrete frame,After 2010,3 or more,More than 5,Moderate,Yes,Metal sheets,Good,Good,Gabled,High
+Unreinforced brick masonry,2001 to 2010,1,3 to 5,Good,No,Fiber cement sheets,Moderate,Poor,Gabled,High
+Confined brick masonry,After 2010,1,More than 5,Good,Yes,Fiber cement sheets,Moderate,Moderate,Gabled,High
+Concrete block masonry,After 2010,2,More than 5,Poor,Yes,Fiber cement sheets,Poor,Good,Hipped,Medium
+Partially confined brick masonry,After 2010,1,3 to 5,Good,Yes,Clay tiles,Poor,Poor,Gabled,Medium
+Earthen construction,After 2010,1,3 to 5,Moderate,No,Metal sheets,Good,Good,Gabled,High
+Reinforced concrete frame,Before 1980,1,More than 5,Poor,Yes,Fiber cement sheets,Poor,Moderate,Hipped,High
+Confined brick masonry,After 2010,2,0 to 2,Moderate,No,Fiber cement sheets,Good,Good,Flat,Low
+Concrete block masonry,After 2010,2,0 to 2,Moderate,No,Metal sheets,Good,Good,Flat,Low
+Mixed or informal system,2001 to 2010,2,0 to 2,Poor,No,Fiber cement sheets,Poor,Poor,Gabled,High
+Timber,1980 to 2000,2,More than 5,Poor,Yes,Fiber cement sheets,Moderate,Moderate,Gabled,High
+Reinforced concrete frame,2001 to 2010,3 or more,3 to 5,Moderate,No,Fiber cement sheets,Good,Moderate,Flat,Medium
+Earthen construction,Before 1980,1,0 to 2,Moderate,Yes,Metal sheets,Poor,Moderate,Flat,Medium
+Partially confined brick masonry,2001 to 2010,2,More than 5,Moderate,Yes,Fiber cement sheets,Moderate,Poor,Hipped,High
+Confined brick masonry,1980 to 2000,1,More than 5,Poor,Yes,Fiber cement sheets,Good,Good,Hipped,Medium
+Concrete block masonry,1980 to 2000,1,3 to 5,Moderate,No,Clay tiles,Good,Good,Hipped,Medium
+Timber,After 2010,1,3 to 5,Moderate,Yes,Metal sheets,Good,Moderate,Flat,Medium
+Mixed or informal system,After 2010,1,3 to 5,Moderate,No,Fiber cement sheets,Good,Moderate,Flat,Medium
+Timber,Before 1980,2,0 to 2,Good,No,Metal sheets,Moderate,Poor,Gabled,High
+Unreinforced brick masonry,1980 to 2000,2,0 to 2,Good,Yes,Clay tiles,Good,Moderate,Hipped,Medium
+Concrete block masonry,Before 1980,2,0 to 2,Moderate,Yes,Clay tiles,Moderate,Moderate,Gabled,Medium
+Unreinforced brick masonry,1980 to 2000,2,More than 5,Moderate,No,Metal sheets,Poor,Moderate,Gabled,High
+Concrete block masonry,2001 to 2010,1,3 to 5,Poor,No,Metal sheets,Poor,Poor,Gabled,High
+Confined brick masonry,Before 1980,2,More than 5,Poor,Yes,Metal sheets,Poor,Good,Gabled,High
+Unreinforced brick masonry,Before 1980,2,0 to 2,Good,No,Fiber cement sheets,Good,Poor,Flat,Medium
+Partially confined brick masonry,1980 to 2000,1,3 to 5,Poor,No,Metal sheets,Poor,Good,Hipped,Medium
+Mixed or informal system,2001 to 2010,1,3 to 5,Poor,No,Fiber cement sheets,Poor,Poor,Gabled,High
+Concrete block masonry,Before 1980,1,More than 5,Good,No,Metal sheets,Poor,Good,Gabled,High
+Partially confined brick masonry,After 2010,1,More than 5,Poor,Yes,Metal sheets,Moderate,Good,Flat,Medium
+Concrete block masonry,1980 to 2000,2,0 to 2,Good,No,Metal sheets,Good,Good,Flat,Low

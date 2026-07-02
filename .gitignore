@@ -1,0 +1,33 @@
+# Private survey data stays local. Only the synthetic demo dataset is versioned.
+data/private/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+catboost_info/
+*.log
+
+# OS noise
+Thumbs.db
+.DS_Store
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Streamlit local secrets
+.streamlit/secrets.toml
