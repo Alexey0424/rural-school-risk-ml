@@ -1,5 +1,6 @@
 # Multihazard Risk Screening of Rural Schools with Interpretable Machine Learning
 
+[![tests](https://github.com/Alexey0424/rural-school-risk-ml/actions/workflows/tests.yml/badge.svg)](https://github.com/Alexey0424/rural-school-risk-ml/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-2a78d6)
 ![scikit learn](https://img.shields.io/badge/scikit%20learn-1.6%2B-2a78d6)
 ![LightGBM](https://img.shields.io/badge/LightGBM-4.3%2B-2a78d6)
