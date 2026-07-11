@@ -7,6 +7,9 @@
 ![SHAP](https://img.shields.io/badge/SHAP-0.46%2B-2a78d6)
 ![Streamlit](https://img.shields.io/badge/Streamlit-app-2a78d6)
 ![License](https://img.shields.io/badge/license-MIT-52514e)
+<p align="center">
+  <img src="assets/hero.jpg" alt="A rural schoolhouse beset by four hazards — cracking earth, a slumping hillside, floodwater and roof-peeling wind — each rated by a glowing badge while a field engineer surveys and a laptop explains the risk" width="100%">
+</p>
 
 Rural school buildings in Colombia were surveyed in the field and a structural
 specialist rated every building for four natural hazards: **earthquake,
